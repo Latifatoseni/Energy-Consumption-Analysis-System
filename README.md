@@ -136,7 +136,7 @@ The system incorporates a dedicated summary report function (`generate_summary()
 * **Targeted High-Attention Flags (4 Customers):** Out of **9** customers classified in the High consumption band ($\ge1000$ kWh), exactly **4** accounts (*Prime Plastics*, *Lakeside Hotel*, *Naija Foods Ltd*, and *Industrial Works Ltd*) were flagged for having renewable shares below **15%**, proving that volume classification and attention rules perform distinct analytical functions.
 * **Non-Linear Monthly Swings:** Monthly consumption fluctuates significantly across the **6** recorded months (peaking in June at **7,720 kWh** and bottoming in February at **1,940 kWh**), driven by which customer records fall into each month rather than a smooth seasonal curve.
 
-## Key Learnings on the Path of the Project
+## Key Learnings
 Collaborating as a team (**Gomes Vivian, Oseni Latifat, Ismaila Ainoko Aminu, and Ositadinma Chigozie**) provided invaluable interpersonal and technical lessons beyond coding:
 * **Patience and Code Synchronization:** Merging multiple logical files and code blocks taught us extreme patience, disciplined file management, and synchronization when combining individual function contributions into a single unified menu system.
 * **Mutual Assistance in Debugging:** Working through runtime errors, syntax bugs, scope issues, and nested loop logic together strengthened our collective troubleshooting and code-tracing abilities.
