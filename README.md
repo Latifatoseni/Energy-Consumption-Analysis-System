@@ -104,6 +104,7 @@ This is a simulated dataset, embedded directly in the Python program as a list o
   </tbody>
 </table>
 ---
+
 ##  Features
 
 * **Interactive Main Menu System:** Powered by persistent `while` loops, providing users with 13 distinct navigational options to execute specific analytical queries.
