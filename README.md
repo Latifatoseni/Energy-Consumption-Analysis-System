@@ -74,8 +74,8 @@ Executes `view_all_records()`, printing formatted profiles for all 20 customer r
 
 * **Consumption Metrics:**
 Computes total portfolio consumption (**24,240 kWh**) and average customer consumption (**1,212 kWh**).
+
 * **Extremes Identification:**
-  
 Scans the dataset to locate the highest consumer (*Industrial Works Ltd* - C016 at **3,600 kWh**) and the lowest consumer (*Hope Residence* - C015 at **190 kWh**).
 
 * **Electricity Cost Calculation:**
